@@ -110,3 +110,12 @@ Bringing a polished, innovative touch to every project
   <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </span>
+
+⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/DeveloperCss">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=developercss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=developercss&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
