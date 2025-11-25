@@ -68,6 +68,11 @@ Bringing a polished, innovative touch to every project
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
 </span>
 
+<h4> Softwares and Tools </h4>
+<span>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</span>
+
 <h4> 🤖 Artificial Intelligence and Bots </h4>
 <span>
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
