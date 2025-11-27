@@ -111,6 +111,10 @@ Bringing a polished, innovative touch to every project
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </span>
 
+📜 Certificado de Desarrollador Web
+👉 [Ver certificado](Desarrollo_Web_en_Html5_y_Css3.pdf)
+
+
 ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
